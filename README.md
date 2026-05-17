@@ -1,6 +1,6 @@
 # bigDataAnalysis
 
-A collection of big-data analysis lab assignments (Laboratoriniai Darbai) covering data exploration, cleaning, streaming, and pattern mining.
+A collection of big-data analysis lab assignments covering data exploration, cleaning, streaming, and pattern mining.
 
 ---
 
